@@ -1,0 +1,67 @@
+{
+  "product": [
+    {
+      "name": "Chân gà sả tắc",
+      "img": "https://images.foody.vn/res/g100007/1000062175/prof/s640x400/foody-upload-api-foody-mobile-im-26ba150a-230304112105.jpeg",
+      "code": "1377ADAG",
+      "cost": 50000,
+      "status": "Còn hàng",
+      "id": 1
+    },
+    {
+      "name": "Bánh Bugger Cá Hồi",
+      "img": "https://images.foody.vn/res/g24/238973/prof/s640x400/foody-mobile-foody-burger-ca-hoi--393-635996853493621177.jpg",
+      "code": "12HDABSASD",
+      "cost": 25000,
+      "status": "Còn hàng",
+      "id": 2
+    },
+    {
+      "name": "Gà Nướng ",
+      "img": "https://images.foody.vn/res/g3/26106/prof/s640x400/foody-mobile-ganuongantu-jpg-165-635654324808096130.jpg",
+      "code": "231HSAASBFSFH",
+      "cost": 80000,
+      "status": "Còn hàng",
+      "id": 3
+    },
+    {
+      "name": "Bánh mỳ",
+      "img": "https://images.foody.vn/res/g16/155450/prof/s640x400/foody-mobile-t1-jpg-983-636428218212327996.jpg",
+      "code": "2131HSHADH",
+      "cost": 15000,
+      "status": "Còn hàng",
+      "id": 4
+    },
+    {
+      "name": "Cơm Niêu",
+      "img": "https://images.foody.vn/res/g5/43906/prof/s640x400/file_restaurant_photo_tnys_16378-99e67620-211125140903.jpg",
+      "code": "123NSABFS",
+      "cost": 35000,
+      "status": "Còn hàng",
+      "id": 5
+    }
+  ],
+  "service": [
+    {
+      "id": 1,
+      "img": "https://hanoicomputercdn.com/media/banner/06_Marab9c9a9b68aafe9f134303b322e153eb.png"
+    },
+    {
+      "id": 2,
+      "img": "https://hanoicomputercdn.com/media/banner/06_Mar18d83a01653d5cfea63359174a2ccc79.png"
+    },
+    {
+      "id": 3,
+      "img": "https://hanoicomputercdn.com/media/banner/09_Mar57e32133ea8f0bf6944590b0b4c79713.jpg"
+    }
+  ],
+  "history": [
+    {
+      "name": "Chân gà sả tắc",
+      "code": "3qR6molSCM",
+      "cost": 208000,
+      "time": "03/26/2023",
+      "id": 1
+    }
+  ]
+}
