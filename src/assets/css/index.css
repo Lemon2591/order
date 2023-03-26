@@ -300,7 +300,8 @@
 
 .cart-left {
     font-size: 18px;
-    width: calc(38%);
+    width: calc(38% - 30px);
+    margin-right: 30px;
 }
 
 .cart-left-header {
